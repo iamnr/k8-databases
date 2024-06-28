@@ -52,4 +52,4 @@ spec:
   - name: mongodb-port
     protocol: TCP
     port: 27017 # this port belongs to service
-    targetPort: 27017 # this port belongs to container
+    targetPort: 27017 # this port belongs to 
